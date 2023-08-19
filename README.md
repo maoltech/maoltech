@@ -21,6 +21,7 @@
 ---
 
 ### :man_technologist: About Me :
+I am a Full Stack Softeware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-maoltech&show_icons=true&theme=radical)
 Here are some ideas to get you started:
