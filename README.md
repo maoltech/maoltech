@@ -23,8 +23,28 @@
 ### :man_technologist: About Me :
 I am a Full Stack Softeware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
 
+
 ---
 
+### :hammer_and_wrench: Technologies I Love
+
+#### Languages
+- JavaScript, Python, Java, C#, PHP
+- HTML, CSS
+
+#### Frameworks & Libraries
+- Node.js, Django, .NET, Spring Boot, React, Laravel
+- Material UI, Redux
+
+#### Databases
+- SQL (MySQL)
+- NoSQL (MongoDB)
+
+#### Cloud & DevOps
+- AWS, DigitalOcean, Azure
+- Docker, Kubernetes, Git
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
