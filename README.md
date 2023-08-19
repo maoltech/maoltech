@@ -20,9 +20,8 @@
 </div>
 ---
 
-### :man_technologist: About Me :
-I am a Full Stack Softeware Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
-
+### :man_technologist: About Me
+I'm a passionate Full Stack Software Developer based in Nigeria. With a unique background in Economics and Education from Obafemi Awolowo University, I bring a multidisciplinary perspective to my software projects. I'm driven by the challenge of solving problems and creating innovative solutions through code.
 
 ---
 
