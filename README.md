@@ -45,7 +45,4 @@ I am a Full Stack Softeware Developer <img src="https://media.giphy.com/media/WU
 </div>
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maoltech&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maoltech&theme=dark&hide_border=true&border_radius=7.6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maoltech&theme=dark&background=000000&hide_border=true&border_radius=7.6)](https://git.io/streak-stats)
