@@ -28,11 +28,11 @@ I'm a passionate Full Stack Software Developer based in Nigeria. With a unique b
 ### :hammer_and_wrench: Technologies I Use
 
 #### Languages
-- JavaScript, Python, Java, C#, PHP, TypeScript
+- JavaScript, Python, Java, C#, PHP, TypeScript, Go
 - HTML, CSS
 
 #### Frameworks & Libraries
-- Node.js, Django, .NET, Spring Boot, React, Laravel
+- Node.js, Django, .NET, Spring Boot, React, Laravel, Go, Codeigniter, NextJs, NestJs
 - Material UI, Redux
 
 #### Databases
